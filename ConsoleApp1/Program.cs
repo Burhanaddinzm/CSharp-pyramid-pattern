@@ -17,4 +17,4 @@ if (n <= 60)
     }
 }
 else
-    Console.WriteLine("Can't input more that 60 rows!");
+    Console.WriteLine("Row count can't exceed 60!");
